@@ -85,7 +85,7 @@ margin-bottom: 65px;
 }
 /* main-section */
 .main-section{
-    margin: 100px 196px;
+   margin:0px auto;
     background: rgb(255, 255, 255);
     max-width: 1140px;
 }
@@ -359,9 +359,9 @@ background: rgb(255, 255, 255);
 }
 /* footer */
 footer{
-    margin: 100px 196px 30px 196px;
-
+    margin: 0px auto;
     background: rgb(255, 255, 255);
+    max-width: 1140px;
 }
 .footer-section{
     display: flex;
