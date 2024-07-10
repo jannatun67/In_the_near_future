@@ -71,7 +71,7 @@ letter-spacing: 0%;
 text-align: center;
 margin-bottom: 30px;
 }
-.btn-contact, a{
+.btn-contact {
     margin-bottom: 30px;
     border-radius: 8px;
     background: rgb(13, 19, 33);
@@ -82,9 +82,9 @@ font-weight: 600;
 line-height: 20px;
 letter-spacing: 0%;
 text-align: center;
+border: 0;
 
-text-decoration: none;
-padding: 10px 20px;
+
 }
 /* main-section */
 .main-section{
@@ -94,6 +94,10 @@ padding: 10px 20px;
 }
 .development{
     margin-bottom: 160px;
+    
+}
+.why-development{
+    margin-top: 50px;
 }
 .development-title{
     color: rgb(13, 19, 33);
