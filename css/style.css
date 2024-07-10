@@ -87,6 +87,7 @@ margin-bottom: 65px;
 .main-section{
     margin: 100px 196px;
     background: rgb(255, 255, 255);
+    max-width: 1140px;
 }
 .development{
     margin-bottom: 160px;
